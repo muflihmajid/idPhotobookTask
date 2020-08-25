@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "746751993932",
+    "firebase_url": "https://idphotobook-bc1c3.firebaseio.com",
+    "project_id": "idphotobook-bc1c3",
+    "storage_bucket": "idphotobook-bc1c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746751993932:android:a105169d74472fc7b22ce9",
+        "android_client_info": {
+          "package_name": "com.muflih.idphotobook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746751993932-qj9qts4kqfdvo94semllaupfj9f5tu2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqgxbXqfW-6C-r3tZ8iXQpR-XPqbYwKCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746751993932-qj9qts4kqfdvo94semllaupfj9f5tu2g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
